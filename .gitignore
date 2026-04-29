@@ -1,0 +1,9 @@
+# Secrets / API keys
+agent/auth.json
+
+# Transient session logs & telemetry
+agent/sessions/
+agent/bin/
+
+# Cache files
+.pi-lens/

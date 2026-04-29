@@ -1,0 +1,13 @@
+{
+  "lastChangelogVersion": "0.70.6",
+  "defaultProvider": "openrouter",
+  "defaultModel": "moonshotai/kimi-k2.6",
+  "defaultThinkingLevel": "medium",
+  "packages": [
+    "npm:pi-subagents",
+    "npm:taskplane",
+    "npm:pi-lens",
+    "npm:pi-mcp-adapter"
+  ],
+  "theme": "default"
+}
