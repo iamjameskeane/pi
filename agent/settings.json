@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "0.70.6",
+  "lastChangelogVersion": "0.71.0",
   "defaultProvider": "openrouter",
   "defaultModel": "deepseek/deepseek-v4-flash",
   "defaultThinkingLevel": "off",
@@ -11,7 +11,8 @@
     "npm:@juicesharp/rpiv-todo",
     "npm:@aliou/pi-processes",
     "npm:@juicesharp/rpiv-advisor",
-    "npm:context-mode"
+    "npm:context-mode",
+    "npm:@samfp/pi-memory"
   ],
   "theme": "default"
 }
