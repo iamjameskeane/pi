@@ -1,13 +1,16 @@
 {
   "lastChangelogVersion": "0.70.6",
   "defaultProvider": "openrouter",
-  "defaultModel": "moonshotai/kimi-k2.6",
-  "defaultThinkingLevel": "medium",
+  "defaultModel": "deepseek/deepseek-v4-flash",
+  "defaultThinkingLevel": "off",
   "packages": [
     "npm:pi-subagents",
-    "npm:taskplane",
     "npm:pi-lens",
-    "npm:pi-mcp-adapter"
+    "npm:pi-mcp-adapter",
+    "npm:pi-web-access",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:@aliou/pi-processes",
+    "npm:@juicesharp/rpiv-advisor"
   ],
   "theme": "default"
 }
