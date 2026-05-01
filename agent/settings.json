@@ -10,7 +10,8 @@
     "npm:pi-web-access",
     "npm:@juicesharp/rpiv-todo",
     "npm:@aliou/pi-processes",
-    "npm:@juicesharp/rpiv-advisor"
+    "npm:@juicesharp/rpiv-advisor",
+    "npm:context-mode"
   ],
   "theme": "default"
 }
